@@ -18,6 +18,9 @@ Upon completion of this beginner-level lab, you will be able to:
 - Work with AI Service keys and endpoints
 - Analyze text data using Azure Cognitive Service hosted on a container app
 
+## Docker Hub Image
+cloudacademydevops/text-analytics-python:latest
+
 ## Reference
 https://platform.qa.com/lab/deploy-containerized-text-analytics-solution-azure-ai/
 
